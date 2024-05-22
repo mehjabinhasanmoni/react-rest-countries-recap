@@ -2,4 +2,9 @@
   margin: 20px;
   background-color: bisque;
   padding: 10px;
+  border: 1px solid #000;
+}
+
+.country img {
+  width: 150px;
 }
